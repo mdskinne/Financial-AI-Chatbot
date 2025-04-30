@@ -2,7 +2,7 @@ import pandas as pd
 import os
 
 # 🔒 Path to your user-defined CSV (this file should not be edited by code)
-CSV_PATH = "C:/Users/mdskinne/financechatbot/sample_budget.csv"
+CSV_PATH = ".../sample_budget.csv"
 
 # 🔒 Load the CSV into memory once at import
 try:
