@@ -2,7 +2,7 @@ import pandas as pd
 import os
 
 # Updated path to your uploaded portfolio file
-CSV_PATH = "C:/Users/mdskinne/financechatbot/sample_portfolio.csv"
+CSV_PATH = ".../sample_portfolio.csv"
 
 try:
     _portfolio_df = pd.read_csv(CSV_PATH)
