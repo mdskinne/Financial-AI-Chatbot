@@ -1,0 +1,10 @@
+openai_agents
+pandas
+tensorflow
+tensorflow-probability[tf]
+matplotlib
+yfinance
+streamlit
+tabulate
+pillow
+python-dotenv
