@@ -62,7 +62,8 @@ All data (portfolio/budget) is hardcoded from sample CSVs. Upload your own data 
 
 Live pricing and news use real-time tools (yfinance, WebSearchTool).
 
-
+## Flowchart
+![Flowchart](financebot%20flowchart.png)
 
 
 
